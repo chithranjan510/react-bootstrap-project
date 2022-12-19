@@ -3,3 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.b {
+  visibility: hidden;
+  height: 0;
+}
